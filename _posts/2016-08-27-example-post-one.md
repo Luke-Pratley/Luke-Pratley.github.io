@@ -1,15 +1,18 @@
 ---
-title: Description of an Alembic
+title: Extraction of buildings and road networks from Satellite images
 categories:
-- General
-- External sources
+- Deep Learning
+- Computer Vision
+- Python
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
+### Repository: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation)
+Humanitarian and natural disasters can impact roads and buildings, and having a tool that can quickly survey them is useful.
+For this reason, I extract buildings and road networks from satellite images using Tensorflow and UNet archtectures.
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
+Key Tools:
+- Python
+- Tensorflow + Keras
+- Pytest
 
 <!-- more -->
-
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
-
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
