@@ -1,9 +1,7 @@
 ---
 title: Extraction of buildings and road networks from Satellite images
 categories:
-- Deep Learning
 - Computer Vision
-- Python
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 **Repository**: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation)
