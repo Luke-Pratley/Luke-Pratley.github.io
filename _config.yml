@@ -67,7 +67,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://wallpaperstock.net/graphs-wallpapers_39010_1680x1050.jpg"
+    feature_image: "https://raw.githubusercontent.com/Luke-Pratley/Luke-Pratley.github.io/main/assets/ws_Graphs_1680x1050.jpg"
 
 # 6. Jekyll collections settings
 defaults:
