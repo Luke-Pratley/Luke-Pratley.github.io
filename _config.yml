@@ -119,8 +119,6 @@ navigation_header:
 - title: Elements
   url: /elements/
 - title: Projects
-  url: /projects/
-- title: Categories
   url: /categories/
   
 navigation_footer:
