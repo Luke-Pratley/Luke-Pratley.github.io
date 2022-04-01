@@ -4,11 +4,14 @@ categories:
 - Computer Vision
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
+**Key Tools**: Python, Tensorflow + Keras, Pytest
+<!-- more -->
+
 **Repository**: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation) 
 
 [![Python application](https://github.com/Luke-Pratley/building_road_segmentation/actions/workflows/python-app.yml/badge.svg)](https://github.com/Luke-Pratley/building_road_segmentation/actions/workflows/python-app.yml)
 
-**Key Tools**: Python, Tensorflow + Keras, Pytest
+
 
 Below we display an example of an input image and the corresponding ground truth and predicted road network and building footprints.
 
@@ -26,4 +29,3 @@ Humanitarian and natural disasters can impact roads and buildings, and having a 
 For this reason, I extract buildings and road networks from satellite images using Tensorflow and UNet archtectures.
 
 
-<!-- more -->
