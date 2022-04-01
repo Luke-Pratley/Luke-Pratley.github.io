@@ -10,7 +10,7 @@
           <article class="article  article--post  typeset">
             <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
             <!-- {% include post-meta.html %} -->
-            <!-- {{ page.excerpt | truncatewords: 60 | markdownify }} -->
+            {{ page.excerpt | truncatewords: 10 | markdownify }}
           </article>
         </li>
       {% endfor %}
