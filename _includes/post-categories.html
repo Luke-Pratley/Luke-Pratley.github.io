@@ -10,8 +10,8 @@
           <article class="article  article--post  typeset">
             <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> <br>
               {% for tag in site.tags %}
-                  {% for tag in site.tags %}
-                    {% if tag[1] == page.title %}
+                  {% for page1 in tag[1] %}
+                    {% if page1.title == page.title %}
                       {{ tag[0] }}
                     {% endif %}
                   {% endfor %}
