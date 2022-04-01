@@ -2,10 +2,13 @@
 title: Extraction of buildings and road networks from Satellite images
 categories:
 - Computer Vision
-tags: Python Tensorflow Keras Pytest 
+tags: 
+- Python 
+- Tensorflow 
+- Keras 
+- Pytest 
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-**Key Tools**: Python, Tensorflow + Keras, Pytest
 <!-- more -->
 
 **Repository**: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation) 
