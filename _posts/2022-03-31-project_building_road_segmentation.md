@@ -1,5 +1,5 @@
 ---
-title: Extraction of buildings and road networks from Satellite images
+title: Extraction of buildings and road networks from Satellite Images
 categories:
 - Computer Vision
 tags: 
