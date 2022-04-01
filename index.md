@@ -7,7 +7,8 @@ feature_image: "https://raw.githubusercontent.com/Luke-Pratley/Luke-Pratley.gith
 excerpt: "Luke Pratley is a software engineer and data scientist who has built software for processing astronomical images."
 ---
 
-
+[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/luke-pratley)
+[{% include icon.html id="github" title="github" %}](https://github.com/Luke-Pratley)
 
 I am a passionate programmer, data scientist, and Astrophysicist with a background in signal processing based at the University of Toronto. I have an interdisciplinary background, including an MSc in Condensed Matter Physics, a PhD in Astrophysics, and a Diploma in Data Science. 
 
@@ -21,9 +22,4 @@ I have published researched in multiple areas of Physics and Astronomy by levera
 
 ---
 
-#### Contact
-[{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/luke-pratley)
-[{% include icon.html id="github" title="github" %}](https://github.com/Luke-Pratley)
 
-
-{% include site-form.html %}
