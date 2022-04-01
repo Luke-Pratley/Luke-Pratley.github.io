@@ -1,0 +1,18 @@
+ <small>
+      <b>Keywords</b>: 
+      {% for tag in site.tags %}
+    {% if forloop.last %}
+          {% for page1 in tag[1] %}
+            {% if page1.title == page.title %}
+              {{ tag[0] }}
+            {% endif %}
+          {% endfor %}
+    {% else %}
+           {% for page1 in tag[1] %}
+            {% if page1.title == page.title %}
+              {{ tag[0] }},
+            {% endif %}
+          {% endfor %}
+    {% endif %}
+      {% endfor %} 
+</small>
