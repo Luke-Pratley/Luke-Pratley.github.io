@@ -9,13 +9,21 @@
         <li class="item  item--post">
           <article class="article  article--post  typeset">
             <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> <br>
-            Keywords: 
+            <b>Keywords</b>: 
               {% for tag in site.tags %}
+            {% if forloop.last %}
                   {% for page1 in tag[1] %}
+                    {% if page1.title == page.title %}
+                      {{ tag[0] }}
+                    {% endif %}
+                  {% endfor %}
+            {% else %}
+                   {% for page1 in tag[1] %}
                     {% if page1.title == page.title %}
                       {{ tag[0] }},
                     {% endif %}
                   {% endfor %}
+            {% endif %}
               {% endfor %}
             <!-- {% include post-meta.html %} -->
             <!-- {{ page.excerpt | truncatewords: 10 | markdownify }} -->
