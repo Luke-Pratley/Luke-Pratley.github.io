@@ -1,5 +1,5 @@
 ---
-title: Sparse Signal Recovery Python Package
+title: Optimus-Primal Package
 categories:
 - Algorithms
 feature_image: "https://picsum.photos/2560/600?image=872"
@@ -16,14 +16,10 @@ feature_image: "https://picsum.photos/2560/600?image=872"
     :target: https://badge.fury.io/py/optimusprimal
 .. image:: https://img.shields.io/badge/License-GPL-blue.svg
     :target: http://perso.crans.org/besson/LICENSE.html
+[![github](https://img.shields.io/badge/GitHub-optimusprimal-brightgreen.svg?style=flat)](https://github.com/astro-informatics/Optimus-Primal)
 
-|logo| Optimus-Primal: A Lightweight primal-dual solver
 
-.. |logo| raw:: html
-
-   <img src="./docs/assets/animated_logo.png" align="center" height="70" width="70">
-
-**Key Tools**: Python, Convex Optimization, Wavelets, Uncertainty Quantification
+**Key Tools**: Python, Setup Tools, Convex Optimization, Wavelets, Uncertainty Quantification
 
 The package Optimus Primal is a general purpose python package for solving inverse problems using sparse signal recovery.
 
