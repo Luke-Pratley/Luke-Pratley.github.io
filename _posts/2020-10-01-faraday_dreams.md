@@ -5,7 +5,9 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 **Repository**: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation) 
+
 [![Build Status](https://app.travis-ci.com/Luke-Pratley/Faraday-Dreams.svg?branch=master)](https://app.travis-ci.com/Luke-Pratley/Faraday-Dreams)
+
 **Key Tools**: Python, Convex Optimization, Bayesian Analysis
 
 I built a python package that leverages signal processing (e.g., Non-Uniform FFT and Wavelets) and sparsity to probe magnetic fields in the Milky Way and the Universe.
