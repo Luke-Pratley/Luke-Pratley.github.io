@@ -1,7 +1,7 @@
 ---
 title: Optimus-Primal Package
 categories:
-- Algorithms
+- Data Science Algorithms
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 **Repository**: [Optimus-Primal](https://github.com/astro-informatics/Optimus-Primal) 
