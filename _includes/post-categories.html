@@ -10,7 +10,7 @@
           <article class="article  article--post  typeset">
             <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
               {% for tag in page.tags %}
-                {tag[0]}
+                {% raw %}{{tag[0]}} {% unless forloop.last %},{% endunless %} {% endraw %}
               {% endfor %}
             <!-- {% include post-meta.html %} -->
             <!-- {{ page.excerpt | truncatewords: 10 | markdownify }} -->
