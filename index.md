@@ -1,10 +1,9 @@
 ---
 title: My Story
 feature_text: |
-  ## Luke Pratley
-  Luke Pratley is a software engineer and data scientist who has built software for processing astronomical images.
+  # Luke Pratley
 feature_image: "https://raw.githubusercontent.com/Luke-Pratley/Luke-Pratley.github.io/main/assets/banner.jpg"
-excerpt: "Luke Pratley is a software engineer and data scientist who has built software for processing astronomical images."
+excerpt: "Luke Pratley"
 aside: true
 ---
 
