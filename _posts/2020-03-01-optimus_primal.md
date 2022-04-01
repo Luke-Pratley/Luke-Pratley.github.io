@@ -14,6 +14,6 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 
 **Key Tools**: Python, Setup Tools, Convex Optimization, Wavelets, Uncertainty Quantification
 
-I created the package Optimus Primal is a general purpose python package for solving inverse problems using sparse signal recovery.
+I created the package Optimus Primal which is a general purpose python package for solving inverse problems using sparse signal recovery.
 
 <!-- more -->
