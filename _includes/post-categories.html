@@ -8,7 +8,7 @@
         {% assign has_categories = true %}
         <li class="item  item--post">
           <article class="article  article--post  typeset">
-            <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> <br>
+            <h5> <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h5> <br>
             <b>Keywords</b>: 
               {% for tag in site.tags %}
             {% if forloop.last %}
