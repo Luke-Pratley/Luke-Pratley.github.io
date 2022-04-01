@@ -5,7 +5,6 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 **Repository**: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation) 
-
 [![Python application](https://github.com/Luke-Pratley/building_road_segmentation/actions/workflows/python-app.yml/badge.svg)](https://github.com/Luke-Pratley/building_road_segmentation/actions/workflows/python-app.yml)
 
 **Key Tools**: Python, Tensorflow + Keras, Pytest
