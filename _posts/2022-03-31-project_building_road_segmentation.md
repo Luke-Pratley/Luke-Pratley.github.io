@@ -23,6 +23,5 @@ Below we display an example of an input image and the corresponding ground truth
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Luke-Pratley/building_road_segmentation/getting_ready_for_submission/Vegas_output.png" />
 </div>
-## The Data
 
 <!-- more -->
