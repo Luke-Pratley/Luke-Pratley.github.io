@@ -10,9 +10,6 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 
 **Key Tools**: Python, Tensorflow + Keras, Pytest
 
-Humanitarian and natural disasters can impact roads and buildings, and having a tool that can quickly survey them is useful.
-For this reason, I extract buildings and road networks from satellite images using Tensorflow and UNet archtectures.
-
 Below we display an example of an input image and the corresponding ground truth and predicted road network and building footprints.
 
 ### Input Image
@@ -24,5 +21,9 @@ Below we display an example of an input image and the corresponding ground truth
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Luke-Pratley/building_road_segmentation/getting_ready_for_submission/Vegas_output.png" />
 </div>
+
+Humanitarian and natural disasters can impact roads and buildings, and having a tool that can quickly survey them is useful.
+For this reason, I extract buildings and road networks from satellite images using Tensorflow and UNet archtectures.
+
 
 <!-- more -->
