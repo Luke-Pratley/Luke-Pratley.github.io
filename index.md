@@ -21,6 +21,9 @@ I have published researched in multiple areas of Physics and Astronomy by levera
 
 ---
 
-#### Social Media
+#### Contact
 [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/luke-pratley)
 [{% include icon.html id="github" title="github" %}](https://github.com/Luke-Pratley)
+
+
+{% include site-form.html %}
