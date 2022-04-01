@@ -9,8 +9,10 @@
         <li class="item  item--post">
           <article class="article  article--post  typeset">
             <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+            <br>
               {% for tag in page.tags %}
-                {{ tag[0] }} {% unless forloop.last %},{% endunless %}
+            <h6> {{ tag[0] }} </h6>
+                 {% unless forloop.last %},{% endunless %}
               {% endfor %}
             <!-- {% include post-meta.html %} -->
             <!-- {{ page.excerpt | truncatewords: 10 | markdownify }} -->
