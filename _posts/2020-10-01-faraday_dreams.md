@@ -6,7 +6,6 @@ tags:
 - Python
 - Convex Optimization
 - Bayesian Analysis
-feature_image: "https://www.aurecongroup.com/-/media/images/aurecon/content/expertise/digital-engineering-advisory/machine-learning/aurecon-machine-learning-large.jpg"
 ---
 <!-- more -->
 
