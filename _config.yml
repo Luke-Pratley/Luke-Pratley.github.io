@@ -120,7 +120,13 @@ navigation_header:
   url: https://www.linkedin.com/in/luke-pratley/
 - title: Portfolio
   url: /categories/
-  
+  navigation_footer:
+- title: Home
+  url: /
+- title: LinkedIn
+  url: https://www.linkedin.com/in/luke-pratley/
+- title: Portfolio
+  url: /categories/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/L_Pratley
