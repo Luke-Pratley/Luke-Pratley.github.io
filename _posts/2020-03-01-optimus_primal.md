@@ -3,8 +3,8 @@ title: Optimus-Primal Package
 categories:
 - Data Science Algorithms
 feature_image: "https://picsum.photos/2560/600?image=872"
+tags: Python, Setup Tools, Convex Optimization, Wavelets, Uncertainty Quantification
 ---
-**Key Tools**: Python, Setup Tools, Convex Optimization, Wavelets, Uncertainty Quantification
 <!-- more -->
 
 **Repository**: [Optimus-Primal](https://github.com/astro-informatics/Optimus-Primal) 
