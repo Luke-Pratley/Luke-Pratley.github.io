@@ -120,7 +120,8 @@ navigation_header:
   url: https://www.linkedin.com/in/luke-pratley/
 - title: Portfolio
   url: /categories/
-  navigation_footer:
+
+navigation_footer:
 - title: Home
   url: /
 - title: LinkedIn
