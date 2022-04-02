@@ -1,7 +1,7 @@
 ---
 title: Extraction of buildings and road networks from Satellite Images
 categories:
-- Computer Vision
+- Machine Learning
 tags: 
 - Python 
 - Tensorflow 
