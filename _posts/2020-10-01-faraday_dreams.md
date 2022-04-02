@@ -3,8 +3,8 @@ title: Using Sparse Priors to Study Cosmic Magnetic Fields
 categories:
 - Machine Learning
 feature_image: "https://picsum.photos/2560/600?image=872"
+tags: Python, Convex Optimization, Bayesian Analysis
 ---
-**Key Tools**: Python, Convex Optimization, Bayesian Analysis
 <!-- more -->
 
 **Repository**: [Building and Road Segmentation](https://github.com/Luke-Pratley/building_road_segmentation) 
