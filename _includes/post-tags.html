@@ -3,7 +3,7 @@
       {% for tag in site.tags %}
           {% for page1 in tag[1] %}
             {% if page1.title == page.title %}
-              {{ tag[0] }}|
+              {{ tag[0] }} |
             {% endif %}
           {% endfor %}
       {% endfor %} 
