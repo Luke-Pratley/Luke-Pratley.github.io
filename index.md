@@ -2,7 +2,7 @@
 title: My Story
 feature_text: |
   # Luke Pratley
-  Software Engineer | Data Scientist | Ph.D in Astrophysics
+  Programmer | Data Scientist | Ph.D in Astrophysics
 feature_image: "https://raw.githubusercontent.com/Luke-Pratley/Luke-Pratley.github.io/main/assets/banner.jpg"
 excerpt: "Luke Pratley"
 aside: true
